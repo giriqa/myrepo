@@ -1,0 +1,16 @@
+This is the file from the github.
+p = input ("enter value p:")
+n = input ("enter value n:")
+r = input ("enter rate r:")
+interest = (float(p)*float(n)*float(r))/36000
+print (interest)
+t = input ("enter tax value t")
+tax = float (interest)* float (t)/100
+print(tax)
+
+
+
+c='Hi There'
+print c(1)
+
+the above cide is for interest calculation.
